@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 hello I am SEO expert i learned Python on GitHub I worked before on my site :
-<a href="spinandbounce.com">basketball</a>
+<a href="spinandbounce.com">spinandbounce.com</a>
 
 
 
